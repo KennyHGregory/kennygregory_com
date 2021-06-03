@@ -2,8 +2,8 @@
   image: "JohnsonFinancialGroup.png"
   img-alt: ""
   jobtitle: "Senior Application Web Developer"
-  year: "Oct 2015 - Present (4 yrs +)"
-  text: "C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics"
+  year: "Oct 2015 - Present (5 yrs +)"
+  text: "C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, TFS, GIT"
   side: left
   
 - companyname: "Johnson Financial Group"
@@ -11,7 +11,7 @@
   img-alt: ""
   jobtitle: "Application Web Developer"
   year: "Oct 2012 - Sep 2015 (3 yrs)"
-  text: "C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics"
+  text: "C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, CVS, TFS"
   side: right
 
 - companyname: "Direct Supply"
@@ -19,7 +19,7 @@
   img-alt: ""
   jobtitle: "Software Engineer I"
   year: "Jun 2009 - Oct 2012 (3 yrs 5 mos)"
-  text: "C#, Asp.Net Web Forms, SQL"
+  text: "C#, Asp.Net Web Forms, SQL, TFS"
   side: left
  
 - companyname: "Direct Supply"
@@ -27,7 +27,7 @@
   img-alt: ""
   jobtitle: "Software Engineer Intern"
   year: "Jun 2007 - May 2009 (2 yrs)"
-  text: "C#, .Net Windows Forms"
+  text: "C#, .Net Windows Forms, SQL, VSS, TFS"
   side: right
   
 - companyname: "Milwaukee School of Engineering (MSOE)"
