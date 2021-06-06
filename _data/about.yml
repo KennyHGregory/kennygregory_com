@@ -3,7 +3,19 @@
   img-alt: ""
   jobtitle: "Senior Application Web Developer"
   year: "Oct 2015 - Present (5 yrs +)"
-  text: "<ul><li>C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, TFS, GIT</li><li>test</li></ul>"
+  text:
+    <ul>
+    <li>Technologies: C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, TFS, GIT</li>
+    <li>Wear multiple hats: gather requirements, design/architect, develop, manage projects, test, deploy, and support software.</li>
+    <li>Lead the team to improve our Agile practices with estimations and sprint planning.</li>
+    <li>Work with contractors from multiple organizations, working on multiple projects. Setup access, review designs, review code, and help debug issues.</li>
+    <li>Mentor other developers on the team on how to build Asp.NET MVC applications.</li>
+    <li>Built three major integrations with our CRM platform, to enhance the data and save time by avoiding duplicate data entry.</li>
+    <li>Designed and developed an application that allowed the Finance department to plan changes to interest rates, have another user approve the changes(with ability to see what exactly was changing), and export/upload the necessary data file to our Bank core.  This was previously managed with Excel SpreadSheets with multiple people touching the files and manual updates of the rates in the Bank core.  This improved the effient, checks, audit, and quality of the process.</li>
+    <li>TFS Migration - moved from a Windows 2012 to a Windows 2016 server and from TFS 2012 to 2018. Tested migration and did migration in a 2 week calendar period.</li>
+    <li>CRM on-prem upgrade from 2011 to 2016, in 2018.  I updated the seven major integrations that were built over the previous four years.  I also moved as much JavaScript to the new Business Rules functionality in CRM allowing easier maintenance of the business logic.</li>
+    <li>Migration of CRM from on-prem to the Cloud in 2020, updating eight integrations.</li>
+    </ul>
   side: left
   
 - companyname: "Johnson Financial Group"
