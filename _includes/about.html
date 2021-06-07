@@ -19,14 +19,14 @@
                         <div class="timeline-image">
                             <img class="img-circle img-responsive" src="/assets/img/about/{{ element.image }}" alt="{{ element.img-alt }}">
                         </div>
-                        <div class="timeline-panel">
+                        <div class="timeline-panel" style="text-align:left;">
                             <div class="timeline-heading">
                                 <h4>{{ element.year }}</h4>
                                 <h4 class="subheading">{{ element.companyname }}</h4>
                             </div>
                             <div class="timeline-body">
                                 <h5>{{ element.jobtitle }}</h5>
-                                <p class="text-muted"><div style="text-align:left;max-height:12rem;overflow:hidden;" id="about-text-{{ forloop.index }}">{{ element.text }}</div></p>
+                                <p class="text-muted"><div style="max-height:12rem;overflow:hidden;" id="about-text-{{ forloop.index }}">{{ element.text }}</div></p>
                                 <button id="button-seemoreless-{{ forloop.index }}" onclick="seeMoreLess({{ forloop.index }})" type="button" style="background:none;border:none;color:#64727a;">...see more</button>
                             </div>
                         </div>
