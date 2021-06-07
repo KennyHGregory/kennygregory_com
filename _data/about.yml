@@ -4,7 +4,7 @@
   jobtitle: "Senior Application Web Developer"
   year: "Oct 2015 - Present (5 yrs +)"
   text: >
-    <ul>
+    <ul style="padding-left:14px;">
     <li>Technologies: C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, TFS, GIT</li>
     <li>Wear multiple hats: gather requirements, design/architect, develop, manage projects, test, deploy, and support software.</li>
     <li>Lead the team to improve our Agile practices with estimations and sprint planning.</li>
@@ -24,7 +24,7 @@
   jobtitle: "Application Web Developer"
   year: "Oct 2012 - Sep 2015 (3 yrs)"
   text: >
-    <ul>
+    <ul style="padding-left:14px;">
     <li>Technologies: C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, CVS, TFS</li>
     <li>Designed and developed an application to push data from our data warehouse into Microsoft Dynamics CRM daily.  Designed in a manner that allowed configuration and database table/view updates to determine what data was pushed.  Therefore updates to the applications code were not needed.</li>
     <li>Designed and developed Relationship Manager(Banker) Transfer, streamlining the process of moving clients between bankers.  The project saved the team managing the process 680 hours per year.</li>
@@ -42,7 +42,7 @@
   jobtitle: "Software Engineer I"
   year: "Jun 2009 - Oct 2012 (3 yrs 5 mos)"
   text: >
-    <ul>
+    <ul style="padding-left:14px;">
     <li>Technologies: C#, Asp.Net Web Forms, SQL, TFS</li>
     <li>Design and create solutions for our internal and external customers.</li>
     <li>Work with others on projects and problem solving.</li>
@@ -57,7 +57,7 @@
   jobtitle: "Software Engineer Intern"
   year: "Jun 2007 - May 2009 (2 yrs)"
   text: >
-    <ul>
+    <ul style="padding-left:14px;">
     <li>Technologies: C#, .Net Windows Forms, SQL, Microsoft Visual SourceSafe</li>
     <li>Design and create solutions for our internal and external customers.</li>
     <li>Work with others on projects and problem solving.</li>
