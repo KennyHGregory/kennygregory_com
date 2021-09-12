@@ -10,7 +10,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "4.1.0"
+gem "jekyll", "4.2.0"
 
 # This is the default theme.
 gem "agency-jekyll-theme"
