@@ -1,8 +1,16 @@
+- companyname: "Databook"
+  image: "Databook.png"
+  img-alt: ""
+  jobtitle: "Software Engineer"
+  year: "Aug 2022 - Present"
+  text: 
+  side: right
+
 - companyname: "Johnson Financial Group"
   image: "JohnsonFinancialGroup.png"
   img-alt: ""
   jobtitle: "Senior Application Web Developer"
-  year: "Oct 2015 - Present (5 yrs +)"
+  year: "Oct 2015 - Aug 2022 (6 yrs)"
   text: >
     <ul style="padding-left:14px;">
     <li>Technologies: C#, Asp.Net MVC, SQL, JavaScript, CRM Dynamics, TFS, GIT</li>
